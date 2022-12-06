@@ -1,0 +1,38 @@
+body
+{
+    text-align: center;
+    background-color: rgb(32, 30, 30);
+}
+h1
+{
+    font-size: 5rem;
+    color: rgb(255, 47, 47);
+}
+button
+{
+    font-size: 6rem;
+    width: 7rem;
+    margin-left: 1.2rem;
+    margin-right: 1.2rem;
+    border-radius: 1rem;
+    border-color: aquamarine;
+}
+.new
+{
+    font-size: 1.2rem;
+    width: 8rem;
+    height: 3rem;
+    border-radius: 1rem;
+    margin-top: 4rem;
+}
+footer{
+text-align: center;
+color: #ff8f81;
+margin-top: 5rem;
+}
+
+.pressed
+{
+    box-shadow: 0 3px 4px 0 #dbedf3;
+    opacity: 0.5;
+}
